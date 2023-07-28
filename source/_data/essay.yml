@@ -7,6 +7,9 @@
   home_essay: true
   top_background: 
   essay_list:
+    - content: 重开了博客,解决了博客部分页面报错的问题🧑‍💻
+      date: 2023/06/06
+      link:
     - content: 学习flutter中
       date: 2023/06/06
       link: 
