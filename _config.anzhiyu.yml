@@ -545,8 +545,8 @@ footer:
       enable: false
       link: /copyright
     linkList:
-      - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
-        text: 主题
+#      - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
+#        text: 主题
       # - link: https://image.anheyu.com
       #   text: 图床
       - link: https://beian.miit.gov.cn/
