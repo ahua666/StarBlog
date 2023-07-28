@@ -280,12 +280,12 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-weichat.png
+    - img: https://img.ahuaaa.cn/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230402005547.jpg
       link:
       text: wechat
-    - img: https://npm.elemecdn.com/anzhiyu-blog@1.1.6/img/post/common/qrcode-alipay.png
+    - img: https://img.ahuaaa.cn/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230402005547.jpg
       link:
-      text: alipay
+      text: wechat
 
 # Post edit
 # Easily browse and edit blog source code online.
