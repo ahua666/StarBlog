@@ -547,8 +547,8 @@ footer:
     linkList:
 #      - link: https://github.com/anzhiyu-c/hexo-theme-anzhiyu
 #        text: 主题
-      # - link: https://image.anheyu.com
-      #   text: 图床
+      - link: https://pan.ahuaaa.cn
+        text: 云盘
       - link: https://beian.miit.gov.cn/
         text: 湘ICP备-xxxxxxx号
     typing:
