@@ -1,0 +1,50 @@
+- class_name: 开启创造力
+  creativity_list:
+    - name: Java
+      color: "#fff"
+      icon: https://pans.ahuaaa.cn/blog/img/633005bf0fd1e.jpg
+    - name: Docker
+      color: "#57b6e6"
+      icon: https://pans.ahuaaa.cn/blog/img/63300647df7fa.png
+    - name: Photoshop
+      color: "#4082c3"
+      icon: https://pans.ahuaaa.cn/blog/img/63300647e1f10.png
+    - name: Node
+      color: "#333"
+      icon: https://pans.ahuaaa.cn/blog/img/node-logo.svg
+    - name: Webpack
+      color: "#2e3a41"
+      icon: https://pans.ahuaaa.cn/blog/img/6330ff27e5c9b.png
+    - name: Pinia
+      color: "#fff"
+      icon: https://pans.ahuaaa.cn/blog/img/pinia-logo.svg
+    - name: Python
+      color: "#fff"
+      icon: https://pans.ahuaaa.cn/blog/img/63300647dea51.png
+    - name: Vite
+      color: "#937df7"
+      icon: https://pans.ahuaaa.cn/blog/img/vite-logo.svg
+    - name: Flutter
+      color: "#4499e4"
+      icon: https://pans.ahuaaa.cn/blog/img/633004063ff15.png
+    - name: Vue
+      color: "#b8f0ae"
+      icon: https://pans.ahuaaa.cn/blog/img/633001374747b.png
+    - name: React
+      color: "#222"
+      icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
+    - name: CSS3
+      color: "#2c51db"
+      icon: https://pans.ahuaaa.cn/blog/img/633006cc55e07.png
+    - name: JS
+      color: "#f7cb4f"
+      icon: https://pans.ahuaaa.cn/blog/img/633006eee047b.png
+    - name: HTML
+      color: "#e9572b"
+      icon: https://pans.ahuaaa.cn/blog/img/633006f9ab27d.png
+    - name: Git
+      color: "#df5b40"
+      icon: https://pans.ahuaaa.cn/blog/img/633006e37c7fd.webp
+    - name: Apifox
+      color: "#e65164"
+      icon: https://pans.ahuaaa.cn/blog/img/633007087a4dc.webp
