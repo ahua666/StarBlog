@@ -1053,7 +1053,7 @@ home_top:
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
     tips: 新品推荐
-    title: 简单的导航
+    title: 简单的导航页面
     image: https://img.ahuaaa.cn/img/20230728194650.png
     link: https://www.ahuaaa.cn/2023/03/16/StarNavigation/
 
