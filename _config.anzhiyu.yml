@@ -144,8 +144,8 @@ docsearch:
 
 # Local search
 local_search:
-  enable: true
-  preload: true
+  enable: false
+  preload: false
   CDN:
 
 # Math (数学)
