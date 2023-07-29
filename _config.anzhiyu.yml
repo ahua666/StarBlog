@@ -1193,6 +1193,7 @@ inject:
     # - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
 
   bottom:
+    - <script src="/js/Star.js"></script>
     # 自定义js
     # - <script src="/js/xxx"></script>
 
