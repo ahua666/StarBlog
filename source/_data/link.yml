@@ -58,3 +58,18 @@
       link: https://salephine.asia/
       avatar: https://salephine.asia/favicon.ico
       descr: 时间不在于你拥有多少，而在于你怎样使用。
+    - name: 兔兔
+      hundredSuffix: ""
+      link: https://dogecloud.qqdeveloper.com/
+      avatar: https://dogecloud.qqdeveloper.com/image/logo.png
+      descr: 兔兔答题
+    - name: 图鸟科技
+      hundredSuffix: ""
+      link: https://www.tuniaokj.com/
+      avatar: https://docs.ahuaaa.cn/common/logo.png
+      descr: 图鸟UI，是基于uni-app进行开发的酷炫UI框架
+    - name: 柒糖
+      hundredSuffix: ""
+      link: https://sevensugar.com/
+      avatar:
+      descr:
