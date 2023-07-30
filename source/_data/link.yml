@@ -33,11 +33,21 @@
       avatar: https://salephine.asia/favicon.ico
       descr: 时间不在于你拥有多少，而在于你怎样使用。
       siteshot: https://img.ahuaaa.cn/img/20230729215858.png
+    - name: Vinkon's Blog
+      link: https://www.lilkon.cn/
+      avatar: https://www.lilkon.cn/img/head_hu090af2224bc69b38f7e1a1888c846956_260881_288x288_fill_box_center_3.png
+      descr: 普通且平凡的博客
+      siteshot: https://img.ahuaaa.cn/img/20230730205917.png
 
 - class_name: 小伙伴
   class_desc: 那些人，那些事
   flink_style: anzhiyu
   link_list:
+    - name: Vinkon's Blog
+      hundredSuffix: ""
+      link: https://www.lilkon.cn/
+      avatar: https://www.lilkon.cn/img/head_hu090af2224bc69b38f7e1a1888c846956_260881_288x288_fill_box_center_3.png
+      descr: 普通且平凡的博客
     - name: 安知鱼
       hundredSuffix: ""
       link: https://anzhiy.cn/
