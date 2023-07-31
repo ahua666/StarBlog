@@ -3,8 +3,8 @@ title: flutter 读取bmp格式图片并转换16进制
 tags:
   - flutter
   - android
-top_img: "https://files.flutter-io.cn/flutter-cn/landing/4fd5520fe28ebf839174.svg"
-cover: "https://files.flutter-io.cn/flutter-cn/landing/4fd5520fe28ebf839174.svg"
+top_img: "https://img.ahuaaa.cn/img/20230731171324.png"
+cover: "https://img.ahuaaa.cn/img/20230731171324.png"
 categories: flutter
 abbrlink: 27745
 date: 2023-04-27 22:11:18
