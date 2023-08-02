@@ -3,8 +3,8 @@ title: flutter蓝牙
 tags:
   - flutter
   - android
-top_img: 'https://img.ahuaaa.cn/img/20230731171324.png'
-cover: 'https://img.ahuaaa.cn/img/20230731171324.png'
+top_img: 'https://pan.ahuaaa.cn/d/pan/CDN/20230731171324.png'
+cover: 'https://pan.ahuaaa.cn/d/pan/CDN/20230731171324.png'
 categories: flutter
 abbrlink: 17288
 date: 2023-05-10 15:26:39
