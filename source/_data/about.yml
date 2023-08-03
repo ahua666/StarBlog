@@ -32,7 +32,7 @@
     backgroundDark: https://img.ahuaaa.cn/img/20230427232103.png
   selfInfo:
     selfInfoTips1: 生于
-    selfInfoContentYear: 2000
+    selfInfoContentYear: 2000年10月
     selfInfoTips2: 某大
     selfInfoContent2: 软件工程
     selfInfoTips3: 现在职业
@@ -81,9 +81,9 @@
     like_bottom: 手机、电脑软硬件
   music:
     music_tips: 音乐偏好
-    music_title: 许嵩、民谣、华语流行
-    music_bg: https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg
-    music_link: /music
+    music_title: 民谣、华语流行
+    music_bg: https://y.qq.com/music/photo_new/T002R300x300M000001sKd2l0dVkXa_2.jpg?max_age=2592000
+    music_link: /music/?id=8976112372&server=tencent
   reward_list:
     - name: 可我会像
       amount: 99.99
