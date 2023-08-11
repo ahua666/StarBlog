@@ -6,7 +6,7 @@ tags:
   - flutter
   - android
 top_img: 'https://img.ahuaaa.cn/img/20230731171324.png'
-cover: 'https://pan.ahuaaa.cn/d/189/CDN/20230731171324.png'
+cover: 'https://img.ahuaaa.cn/img/20230731171324.png'
 
 ---
 

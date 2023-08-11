@@ -5,7 +5,7 @@ tags:
   - android
 abbrlink: 55048
 top_img: 'https://img.ahuaaa.cn/img/20230731171324.png'
-cover: 'https://pan.ahuaaa.cn/d/189/CDN/20230731171324.png'
+cover: 'https://img.ahuaaa.cn/img/20230731171324.png'
 categories: flutter
 date: 2023-04-06 20:11:27
 ---

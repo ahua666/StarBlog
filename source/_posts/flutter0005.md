@@ -4,7 +4,7 @@ tags:
   - flutter
   - android
 top_img: 'https://img.ahuaaa.cn/img/20230731171324.png'
-cover: 'https://pan.ahuaaa.cn/d/189/CDN/20230731171324.png'
+cover: 'https://img.ahuaaa.cn/img/20230731171324.png'
 categories: flutter
 abbrlink: 17288
 date: 2023-05-10 15:26:39

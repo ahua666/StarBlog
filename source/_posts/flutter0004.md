@@ -5,7 +5,7 @@ tags:
   - GetX
 categories: flutter
 top_img: 'https://img.ahuaaa.cn/img/20230731171324.png'
-cover: 'https://pan.ahuaaa.cn/d/189/CDN/20230731171324.png'
+cover: 'https://img.ahuaaa.cn/img/20230731171324.png'
 abbrlink: 17462
 date: 2023-05-01 21:00:14
 ---
