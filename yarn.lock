@@ -850,7 +850,7 @@ hexo-server@^3.0.0:
 
 hexo-theme-anzhiyu@^1.5.3:
   version "1.5.3"
-  resolved "https://registry.npmjs.org/hexo-theme-anzhiyu/-/hexo-theme-anzhiyu-1.5.3.tgz#dc8ff34ff3b67dcd476da46fe682e0fe0b2da257"
+  resolved "https://registry.npmmirror.com/hexo-theme-anzhiyu/-/hexo-theme-anzhiyu-1.5.3.tgz#dc8ff34ff3b67dcd476da46fe682e0fe0b2da257"
   integrity sha512-WVWNeD6c0whpXTsn+1lkQ0kMj2EkW4nOd8dj469j7GeKtWwb+rdNSgCNvroVi4rbv06hlpkrsOgP5i1hljLSbQ==
   dependencies:
     hexo-renderer-pug "^3.0.0"
