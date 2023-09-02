@@ -6,14 +6,14 @@ tags:
       - 前端
 categories: 前端
 # top_img: 'https://s1.ax1x.com/2022/10/21/x6t29O.png'
-cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.4/img/x6t29O.png'
+cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.5/img/x6t29O.png'
 abbrlink: 25998
 date: 2022-03-26 19:25:31
 ---
 
 # 效果图
 
-![效果图](https://cdn.cbd.int/ahua666-panimg@1.0.4/img/x6t29O.png)
+![效果图](https://cdn.cbd.int/ahua666-panimg@1.0.5/img/x6t29O.png)
 
 # 示例
 {% note info simple %}

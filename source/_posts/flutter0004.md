@@ -4,8 +4,8 @@ tags:
   - flutter
   - GetX
 categories: flutter
-top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.4/img/20230731171324.png'
-cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.4/img/20230731171324.png'
+top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.5/img/20230731171324.png'
+cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.5/img/20230731171324.png'
 abbrlink: 17462
 date: 2023-05-01 21:00:14
 ---
