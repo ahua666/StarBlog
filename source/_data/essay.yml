@@ -5,15 +5,17 @@
   buttonLink: /about/
   limit: 30
   home_essay: true
-  top_background: 
+  top_background:
   essay_list:
+    - content: 楼外的蒹葭并不漂亮，鸡鸣寺的樱花也开不了，只有傍晚的月亮告诉我会一直在。
+      date: 2023/09/21
+      link:
     - content: 重开了博客,解决了博客部分页面报错的问题🧑‍💻
       date: 2023/07/28
       link:
     - content: 学习flutter中
       date: 2023/06/06
-      link: 
+      link:
     - content: 最近头要炸了
       date: 2023/04/01
-      link: 
-    
+      link:
