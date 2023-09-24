@@ -19,8 +19,13 @@
   careers:
     tips: 生涯
     title: 无限进步
-    item:
-      - 软件工程专业
+    list:
+      - desc: EDU,软件工程专业
+        color: "#357ef5"
+    #      - desc: EDU,软件工程专业
+    #        color: "#357ef5"
+    #      - desc: EDU,软件工程专业
+    #        color: "#357ef5"
     img: https://cdn.cbd.int/ahua666-panimg@1.0.6/img/6330e9bcc39cc.png
   statistic:
     link: /archives
@@ -32,7 +37,7 @@
     backgroundDark: https://cdn.cbd.int/ahua666-panimg@1.0.6/img/20230427232103.png
   selfInfo:
     selfInfoTips1: 生于
-    selfInfoContentYear: 2000年10月
+    selfInfoContentYear: 2000
     selfInfoTips2: 某大
     selfInfoContent2: 软件工程
     selfInfoTips3: 现在职业
@@ -53,7 +58,7 @@
   game:
     game_tips: 爱好软件
     game_title: IDEA
-    game_uid: 
+    game_uid:
     game_bg: https://cdn.cbd.int/ahua666-panimg@1.0.6/img/20230427224719.png
   comic:
     comic_tips: 爱好番剧
