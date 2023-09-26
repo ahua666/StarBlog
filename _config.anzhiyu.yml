@@ -31,6 +31,9 @@ nav:
   menu:
     - title: 网页
       item:
+        - name: 主页
+          link: https://index.ahuaaa.cn/
+          icon: https://blog.ahuaaa.cn/blog/favicon.ico
         - name: 博客
           link: https://blog.ahuaaa.cn/
           icon: https://blog.ahuaaa.cn/blog/favicon.ico
@@ -42,6 +45,9 @@ nav:
         - name: Star导航
           link: https://ww.ahuaaa.cn/
           icon: https://blog.ahuaaa.cn/blog/favicon.ico
+        - name: 图鸟UI文档
+          link: https://docs.ahuaaa.cn/
+          icon: https://docs.ahuaaa.cn/logo.png
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -520,8 +526,8 @@ footer:
 #        text: 主题
       - link: https://pan.ahuaaa.cn
         text: 云盘
-      # - link: https://image.anheyu.com
-      #   text: 图床
+      - link: https://docs.ahuaaa.cn
+        text: 图鸟UI
       - link: https://beian.miit.gov.cn/
         text: 湘ICP备-xxxxxxx号
     subTitle:
