@@ -369,7 +369,7 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo.ahuaaa.cn/
+  envId: https://twikoo.ahuaaa.cn/.netlify/functions/twikoo
   region:
   visitor: false
   option:
