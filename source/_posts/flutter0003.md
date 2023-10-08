@@ -5,7 +5,8 @@ tags:
   - android
 top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.6/img/20230731171324.png'
 cover: "https://cdn.cbd.int/ahua666-panimg@1.0.6/img/20230731171324.png"
-categories: flutter
+categories: 
+  - flutter
 abbrlink: 27745
 date: 2023-04-27 22:11:18
 ---

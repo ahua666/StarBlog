@@ -3,7 +3,8 @@ title: Flutter GetX和showModalBottomSheet使用
 tags:
   - flutter
   - GetX
-categories: flutter
+categories: 
+  - flutter
 top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.6/img/20230731171324.png'
 cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.6/img/20230731171324.png'
 abbrlink: 17462

@@ -1,7 +1,8 @@
 ---
 title: flutter强制刷新组件
 date: 2023-08-02 23:10:48
-categories: flutter
+categories: 
+  - flutter
 tags:
   - flutter
   - android
