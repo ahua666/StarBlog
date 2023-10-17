@@ -183,7 +183,7 @@ gbk_bytes.encode(data)
 
 ```dart
  await flutterReactiveBle
-        .writeCharacteristicWithResponse(BLCharacteristic2!, value:gbk.encode('测试')
+        .writeCharacteristicWithResponse(BLCharacteristic2!, value:gbk_bytes.encode('测试')
     )
 ```
 
