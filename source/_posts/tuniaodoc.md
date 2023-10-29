@@ -6,7 +6,7 @@ tags:
     - Vue
     - 前端
 categories: 前端
-cover: https://cdn.cbd.int/ahua666-panimg@1.0.6/img/20230902210907.png
+cover: https://cdn.cbd.int/ahua666-panimg@1.0.7/img/20230902210907.png
 
 ---
 

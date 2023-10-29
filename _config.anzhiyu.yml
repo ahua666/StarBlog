@@ -39,7 +39,7 @@ nav:
           icon: https://blog.ahuaaa.cn/blog/favicon.ico
         - name: alist文件管理
           link: https://pan.ahuaaa.tech/
-          icon: https://cdn.cbd.int/ahua666-panimg@1.0.6/img/logo.svg
+          icon: https://cdn.cbd.int/ahua666-panimg@1.0.7/img/logo.svg
     - title: 项目
       item:
         - name: Star导航
@@ -255,10 +255,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://cdn.cbd.int/ahua666-panimg@1.0.6/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230402005547.jpg
+    - img: https://cdn.cbd.int/ahua666-panimg@1.0.7/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230402005547.jpg
       link:
       text: 微信
-    - img: https://cdn.cbd.int/ahua666-panimg@1.0.6/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230402005547.jpg
+    - img: https://cdn.cbd.int/ahua666-panimg@1.0.7/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230402005547.jpg
       link:
       text: 微信
 
@@ -812,8 +812,8 @@ aside:
     content: 欢迎来看我的博客鸭~
   card_weixin:
     enable: true
-    face: https://cdn.cbd.int/ahua666-panimg@1.0.6/img/631ddb7c9b250.png
-    backFace: https://cdn.cbd.int/ahua666-panimg@1.0.6/img/gongzhonghao.png
+    face: https://cdn.cbd.int/ahua666-panimg@1.0.7/img/631ddb7c9b250.png
+    backFace: https://cdn.cbd.int/ahua666-panimg@1.0.7/img/gongzhonghao.png
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -1057,7 +1057,7 @@ home_top:
   banner:
     tips: 新品推荐
     title: 简单的导航页面
-    image: https://cdn.cbd.int/ahua666-panimg@1.0.6/img/20230728194650.png
+    image: https://cdn.cbd.int/ahua666-panimg@1.0.7/img/20230728194650.png
     link: https://www.ahuaaa.cn/2023/03/16/StarNavigation/
 
 # 朋友圈配置
