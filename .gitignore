@@ -6,3 +6,6 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+/package-lock.json
+/.idea/vcs.xml
+/yarn.lock
