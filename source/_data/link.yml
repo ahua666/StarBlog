@@ -38,12 +38,11 @@
       avatar: https://www.lilkon.cn/img/head_hu090af2224bc69b38f7e1a1888c846956_260881_288x288_fill_box_center_3.png
       descr: 普通且平凡的博客
       siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.7/img/20230730205917.png
-    - name: 葱苓sama
-      link: https://blog.ciraos.top
-      avatar: https://img01.anheyu.com/useruploads/222/2023/10/16/652cbfc482491.jpg
-      descr: Dare && Do
-      siteshot: https://img01.anheyu.com/useruploads/222/2023/10/18/652fdf0738617.png
-
+    - name: 肯了个德的个人博客
+      link: https://leelaa.cn
+      avatar: https://leelaa.cn/pwa-192x192.png
+      descr: 肯了个德的个人博客
+      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.22/img/1700910930604.png
 
 - class_name: 小伙伴
   class_desc: 那些人，那些事
@@ -89,3 +88,8 @@
       link: https://sevensugar.com/
       avatar:
       descr: 壁纸分享
+    - name: 葱苓sama
+      link: https://blog.ciraos.top
+      avatar: https://img01.anheyu.com/useruploads/222/2023/10/16/652cbfc482491.jpg
+      descr: Dare && Do
+      siteshot: https://img01.anheyu.com/useruploads/222/2023/10/18/652fdf0738617.png
