@@ -5,7 +5,7 @@ tags:
   - android
 top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.30/img/20230731171324.png'
 cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.30/img/20230731171324.png'
-categories: 
+categories:
   - flutter
 abbrlink: 17288
 date: 2023-05-10 15:26:39
@@ -134,7 +134,9 @@ connectBluetooth() async {
 ```
 
 ### 设置通知
+
 用到上面定义的变量
+
 ```dart
 Future<void> setNotifiys2() async {
     //可以监听外设端主动发送过来的消息
@@ -170,7 +172,24 @@ gbk_bytes.decode(data)
 gbk_bytes.encode(data) 
 ```
 
+如果是十六进制，但是是以字符串的形式,例如 
+`String hex = 'b2e2cad4';`
 
+则需要先转换为字节数组，再进行解码
+
+```dart
+  String hex = 'b2e2cad4';
+  hexStringToBytes(hex);
+  // 将16进制字符串转换为字节列表
+  List<int> hexStringToBytes(String hex) {
+    List<int> bytes = [];
+    for (int i = 0; i < hex.length; i += 2) {
+      String part = hex.substring(i, i + 2);
+      bytes.add(int.parse(part, radix: 16));
+    }
+    return bytes;
+  }
+```
 
 ## 发送一个测试的字符串
 
@@ -188,7 +207,9 @@ gbk_bytes.encode(data)
 ```
 
 ## 分包发送数据
+
 每次发送数据后 等待 2 秒钟，如果没有收到回复，就抛出异常
+
 ```dart
 Future<void> sendHexDataInPackets2(
       String hexData,
@@ -257,7 +278,6 @@ Future<void> sendHexDataInPackets2(
     }
   }
 ```
-
 
 ```dart
   ///16进制转Uint8List
