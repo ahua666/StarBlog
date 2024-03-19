@@ -4,8 +4,8 @@ date: 2023-12-05 22:33:23
 tags:
   - flutter
   - android
-top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.46/img/20230731171324.png'
-cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.46/img/20230731171324.png'
+top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20230731171324.png'
+cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20230731171324.png'
 categories:
   - flutter
 ---
