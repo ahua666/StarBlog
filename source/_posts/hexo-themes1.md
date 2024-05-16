@@ -3,7 +3,7 @@ title: 星空全屏特效
 tags: canvas
 categories: canvas
 # top_img: 'https://s1.ax1x.com/2022/10/19/xsDhm4.png'
-cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/xsDhm4.png'
+cover: 'https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/xsDhm4.png'
 abbrlink: 13615
 date: 2022-04-18 18:10:02
 ---
