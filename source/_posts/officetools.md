@@ -5,8 +5,8 @@ tags:
     - office365
     - 激活
 categories: 破解
-top_img: 'https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/118-210P5095441.jpg'
-cover: 'https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/118-210P5095441.jpg'
+top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/118-210P5095441.jpg'
+cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/118-210P5095441.jpg'
 abbrlink: 49845
 date: 2022-03-30 14:08:20
 ---
@@ -24,17 +24,17 @@ date: 2022-03-30 14:08:20
 
 # 开始部署
 打开软件后是这样的
-![](https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/20220330141501.png)
+![](https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20220330141501.png)
 点击部署开始安装office全家桶，如果你已经安装过了会显示你安装的版本和卸载按钮
 如下图所示：
-![](https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/20220330142639.png)
+![](https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20220330142639.png)
 如果你没有安装过的话，选择你要部署的版本然后部署就可以了
 
 # 激活
 
 安装一个批量版的许可证，然后输入kms主机后保存设置，点击右上角的激活即可
 如图所示
-![](https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/20220330144346.png)
+![](https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20220330144346.png)
 
 激活成功后打开任意一款office软件提示产品已激活
 

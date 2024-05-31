@@ -138,14 +138,14 @@ jobs:
 ```
 
 * 在npm 官网->头像->Access Tokens->Generate New Token,勾选 Automation 选项，Token只会显示这一次，之后如果忘记了就只能重新生成重新配置了。
-  ![](https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/20231125211417.png "创建token")
-  ![](https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/20231125211236.png "创建成功")
+  ![](https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20231125211417.png "创建token")
+  ![](https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20231125211236.png "创建成功")
 * 将 配置中的`你的用户名` 和 `你的电子邮箱` 替换成你的真实用户名和邮箱，然后在仓库的 Settings -> Secrets 中添加一个名为
   npm_token 的 secret，值为 npm 的 token
-  ![](https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/20231125211820.png)
+  ![](https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20231125211820.png)
 
 * `重要` 请开启Workflow permissions的读写权限，不然会报错
-  ![](https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/20231125212340.png)
+  ![](https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20231125212340.png)
 
 这样子每次使用PicGo上传图片到仓库，GitHub Actions 就会自动更新版本后然后把图片发布到 npm 上了。
-![](https://registry.npmmirror.com/ahua666-panimg/1.0.49/files/img/20231125212507.png)
+![](https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20231125212507.png)
