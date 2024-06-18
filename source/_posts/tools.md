@@ -5,7 +5,7 @@ date: 2023-02-21 19:51:12
 tags:
 top_img: 'https://pans.ahuaaa.cn/img/java.png'
 cover: 'https://pans.ahuaaa.cn/img/java.png'
-
+main_color: "#5b70f1"
 ---
 ### maven 
 

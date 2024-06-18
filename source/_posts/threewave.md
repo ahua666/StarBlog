@@ -9,6 +9,7 @@ categories: 前端
 cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.54/img/x6t29O.png'
 abbrlink: 25998
 date: 2022-03-26 19:25:31
+main_color: "#3f4149"
 ---
 
 # 效果图

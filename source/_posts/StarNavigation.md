@@ -8,6 +8,7 @@ tags:
     - vitepress
     - 前端
 categories: 前端
+main_color: "#000000"
 ---
 ## 用vitepress做了一个简单的导航页面 
 

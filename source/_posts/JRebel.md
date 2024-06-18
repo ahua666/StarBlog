@@ -8,6 +8,7 @@ tags:
 categories: 破解
 cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.54/img/e2132858059eebf65612290101f20dc.png'
 date: 2023-07-28 15:02:06
+main_color: "#32353a"
 ---
 
 # 2023.3.0版JRebel插件激活

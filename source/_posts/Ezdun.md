@@ -8,6 +8,7 @@ tags:
 categories: 破解
 top_img: 'https://pans.ahuaaa.cn/img/52pojie300.jpg'
 cover: 'https://pans.ahuaaa.cn/img/52pojie300.jpg'
+main_color: "#0b1111"
 ---
 
 # 前言 

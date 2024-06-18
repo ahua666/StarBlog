@@ -11,6 +11,7 @@ top_img: 'https://pans.ahuaaa.cn/img/vue.png'
 cover: 'https://pans.ahuaaa.cn/img/vue.png'
 #sticky: 1000
 feature: true
+main_color: "#193d31"
 ---
 # 前言
 最近因为太忙了，实在没有时间更新博客，最近因为在弄APP开发，特此记录下。

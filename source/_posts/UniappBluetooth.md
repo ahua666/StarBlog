@@ -9,6 +9,7 @@ abbrlink: 20748
 date: 2023-04-04 13:05:00
 top_img: 'https://pans.ahuaaa.cn/img/vue.png'
 cover: 'https://pans.ahuaaa.cn/img/vue.png'
+main_color: "#193d31"
 ---
 ## 前言
 
