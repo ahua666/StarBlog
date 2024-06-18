@@ -4,10 +4,11 @@ date: 2023-10-08 16:23:14
 tags:
   - flutter
   - android
-top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20230731171324.png'
-cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20230731171324.png'
+top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.52/img/20230731171324.png'
+cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.52/img/20230731171324.png'
 categories:
   - flutter
+main_color: "#4f6977"
 ---
 
 ## 遇到webview不能显示ip地址形式的网页问题

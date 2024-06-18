@@ -1,7 +1,7 @@
 ---
 title: flutter OutlinedButton按钮分析
-top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20230731171324.png'
-cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20230731171324.png'
+top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.52/img/20230731171324.png'
+cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.52/img/20230731171324.png'
 categories: 
   - flutter
 tags:
@@ -9,6 +9,7 @@ tags:
   - android
 abbrlink: 24297
 date: 2023-07-22 02:19:23
+main_color: "#4f6977"
 ---
 
 ### 资料参考

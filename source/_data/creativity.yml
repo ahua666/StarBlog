@@ -2,49 +2,49 @@
   creativity_list:
     - name: Java
       color: "#fff"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/633005bf0fd1e.jpg
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/633005bf0fd1e.jpg
     - name: Docker
       color: "#57b6e6"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/63300647df7fa.png
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/63300647df7fa.png
     - name: Photoshop
       color: "#4082c3"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/63300647e1f10.png
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/63300647e1f10.png
     - name: Node
       color: "#333"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/node-logo.svg
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/node-logo.svg
     - name: Webpack
       color: "#2e3a41"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/6330ff27e5c9b.png
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/6330ff27e5c9b.png
     - name: Pinia
       color: "#fff"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/pinia-logo.svg
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/pinia-logo.svg
     - name: Python
       color: "#fff"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/63300647dea51.png
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/63300647dea51.png
     - name: Vite
       color: "#937df7"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/vite-logo.svg
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/vite-logo.svg
     - name: Flutter
       color: "#4499e4"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/633004063ff15.png
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/633004063ff15.png
     - name: Vue
       color: "#b8f0ae"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/633001374747b.png
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/633001374747b.png
     - name: React
       color: "#222"
       icon: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K
     - name: CSS3
       color: "#2c51db"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/633006cc55e07.png
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/633006cc55e07.png
     - name: JS
       color: "#f7cb4f"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/633006eee047b.png
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/633006eee047b.png
     - name: HTML
       color: "#e9572b"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/633006f9ab27d.png
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/633006f9ab27d.png
     - name: Git
       color: "#df5b40"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/633006e37c7fd.webp
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/633006e37c7fd.webp
     - name: Apifox
       color: "#e65164"
-      icon: https://cdn.cbd.int/ahua666-panimg@1.0.49/img/blog/633007087a4dc.webp
+      icon: https://cdn.cbd.int/ahua666-panimg@1.0.52/img/blog/633007087a4dc.webp

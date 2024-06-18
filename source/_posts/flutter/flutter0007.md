@@ -6,9 +6,9 @@ categories:
 tags:
   - flutter
   - android
-top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20230731171324.png'
-cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.49/img/20230731171324.png'
-
+top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.52/img/20230731171324.png'
+cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.52/img/20230731171324.png'
+main_color: "#4f6977"
 ---
 
 ## 前言
