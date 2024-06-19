@@ -10,8 +10,8 @@ categories:
     - github actions
     - npm
     - picgo
-top_img: https://cdn.cbd.int/ahua666-panimg/img/20231125213602.png
-cover: https://cdn.cbd.int/ahua666-panimg/img/20231125213602.png
+top_img: https://cdn.cbd.int/ahua666-panimg@1.0.54/img/20231125213602.png
+cover: https://cdn.cbd.int/ahua666-panimg@1.0.54/img/20231125213602.png
 ---
 
 ## 大小限制
