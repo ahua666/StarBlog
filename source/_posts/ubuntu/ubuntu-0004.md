@@ -5,6 +5,7 @@ tags:
     - ubuntu
 cover: https://cdn.cbd.int/ahua666-panimg@1.0.55/img/20240706165251.png
 top_img: https://cdn.cbd.int/ahua666-panimg@1.0.55/img/20240706165251.png
+main_color: "#eed8cf"
 ---
 
 ## 无法切换系统
