@@ -3,9 +3,9 @@ title: 记录一下在vue3中使用threejs的过程
 date: 2024-07-06 22:56:50
 tags:
     - three.js
-cover: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/20240706165251.png
-top_img: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/20240706165251.png
-main_color: "#eed8cf"
+cover: 'https://pans.ahuaaa.cn/img/vue.png'
+top_img: 'https://pans.ahuaaa.cn/img/vue.png'
+main_color: "#193d31"
 ---
 ## 效果图
 
