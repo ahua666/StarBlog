@@ -3,7 +3,7 @@ title: 星空全屏特效
 tags: canvas
 categories: canvas
 # top_img: 'https://s1.ax1x.com/2022/10/19/xsDhm4.png'
-cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.55/img/xsDhm4.png'
+cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.56/img/xsDhm4.png'
 abbrlink: 13615
 date: 2022-04-18 18:10:02
 main_color: "#090d15"
@@ -11,7 +11,7 @@ main_color: "#090d15"
 
 # 博客首页星空全屏特效实现
 
-![效果图](https://cdn.cbd.int/ahua666-panimg@1.0.55/img/xsDhm4.png)
+![效果图](https://cdn.cbd.int/ahua666-panimg@1.0.56/img/xsDhm4.png)
 
 # 修改主题配置文件
 在_config.butterfly.yml文件中增加如下代码
