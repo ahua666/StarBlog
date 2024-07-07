@@ -26,15 +26,15 @@
     #        color: "#357ef5"
     #      - desc: EDU,软件工程专业
     #        color: "#357ef5"
-    img: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/6330e9bcc39cc.png
+    img: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/6330e9bcc39cc.png
   statistic:
     link: /archives
     text: 文章隧道
   map:
     title: 我现在住在
     StrengthenTitle: 中国，常德市
-    background: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/20230427232103.png
-    backgroundDark: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/20230427232103.png
+    background: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/20230427232103.png
+    backgroundDark: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/20230427232103.png
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2000
@@ -59,30 +59,30 @@
     game_tips: 爱好软件
     game_title: IDEA
     game_uid:
-    game_bg: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/20230427224719.png
+    game_bg: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/20230427224719.png
   comic:
     comic_tips: 爱好番剧
     comic_title: 追番
     comic_list:
       - name: 约定的梦幻岛
         href: https://www.bilibili.com/bangumi/media/md5267750/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/63988658aa1b1.webp
+        cover: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/63988658aa1b1.webp
       - name: 咒术回战
         href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/6398864e572ed.webp
+        cover: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/6398864e572ed.webp
       - name: 紫罗兰永恒花园
         href: https://www.bilibili.com/bangumi/media/md8892/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/639886315d658.webp
+        cover: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/639886315d658.webp
       - name: 鬼灭之刃
         href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/639886403d472.webp
+        cover: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/639886403d472.webp
       - name: JOJO的奇妙冒险 黄金之风
         href: https://www.bilibili.com/bangumi/media/md135652/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
-        cover: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/6398862649585.webp
+        cover: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/6398862649585.webp
   like:
     like_tips: 关注偏好
     like_title: 数码科技
-    like_bg: https://cdn.cbd.int/ahua666-panimg@1.0.56/img/632f0dd8f33c6.webp
+    like_bg: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/632f0dd8f33c6.webp
     like_bottom: 手机、电脑软硬件
   music:
     music_tips: 音乐偏好

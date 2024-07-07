@@ -4,8 +4,8 @@ tags:
   - flutter
   - android
 abbrlink: 42957
-top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.56/img/20230731171324.png'
-cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.56/img/20230731171324.png'
+top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.57/img/20230731171324.png'
+cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.57/img/20230731171324.png'
 categories: 
   - flutter
 date: 2023-04-06 14:37:26
