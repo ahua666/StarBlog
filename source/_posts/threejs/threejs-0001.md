@@ -9,7 +9,7 @@ main_color: "#193d31"
 ---
 ## 效果图
 
-![全屏效果图](https://cdn.cbd.int/ahua666-panimg@1.0.57/img/20240706225341.png)
+![全屏效果图](https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20240706225341.png)
 
 ## 创建一个vue3项目
 

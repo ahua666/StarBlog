@@ -3,8 +3,8 @@ title: ubuntu和Windows双系统开机时切换
 date: 2024-07-06 16:43:50
 tags:
     - ubuntu
-cover: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/20240706165251.png
-top_img: https://cdn.cbd.int/ahua666-panimg@1.0.57/img/20240706165251.png
+cover: https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20240706165251.png
+top_img: https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20240706165251.png
 main_color: "#eed8cf"
 ---
 
