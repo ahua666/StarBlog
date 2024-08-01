@@ -31,8 +31,8 @@ type: "about"
 <div class="checkbox blue checked"><input type="checkbox" checked=""><p>Vue3、vite、 pinia</p></div>
 <div class="checkbox blue checked"><input type="checkbox" checked=""><p>Flutter</p></div>
 <div class="checkbox blue checked"><input type="checkbox" checked=""><p>Docker</p></div>
+<div class="checkbox blue checked"><input type="checkbox" checked=""><p>Python3</p></div>
 <div class="checkbox blue"><input type="checkbox"><p>React18</p></div>
-<div class="checkbox blue"><input type="checkbox"><p>Python3</p></div>
 <div class="checkbox blue"><input type="checkbox"><p>原生Android</p></div>
 <div class="checkbox blue"><input type="checkbox"><p>Kotlin</p></div>
 
