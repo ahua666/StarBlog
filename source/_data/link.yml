@@ -7,7 +7,7 @@
       descr: 快速、简单且强大的网站框架
     - name: 图鸟UI文档
       link: https://docs.ahuaaa.cn/
-      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20230902210907.png
+      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.62/img/20230902210907.png
       avatar: https://docs.ahuaaa.cn/common/logo.png
       descr: 基于uni-app进行开发的UI框架
 - class_name: 推荐博客
@@ -17,27 +17,27 @@
       link: https://www.shangjidong.com
       avatar: https://www.shangjidong.com/usr/uploads/2023/07/1002399499.gif
       descr: 前端技术分享、前端学习记录
-      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20230729215415.png
+      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.62/img/20230729215415.png
     - name: 海了个螺
       link: https://www.nnnuo.com/
       avatar: https://www.nnnuo.com/images/avatar.png
       descr: 海螺啥也不知道,分享我眼中的世界
-      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20230729215706.png
+      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.62/img/20230729215706.png
     - name: Mikuya
       link: https://salephine.asia/
       avatar: https://salephine.asia/favicon.ico
       descr: 时间不在于你拥有多少，而在于你怎样使用。
-      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20230729215858.png
+      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.62/img/20230729215858.png
     - name: Vinkon's Blog
       link: https://www.lilkon.cn/
       avatar: https://www.lilkon.cn/img/head_hu090af2224bc69b38f7e1a1888c846956_260881_288x288_fill_box_center_3.png
       descr: 普通且平凡的博客
-      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20230730205917.png
+      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.62/img/20230730205917.png
     - name: 肯了个德的个人博客
       link: https://leelaa.cn
       avatar: https://leelaa.cn/pwa-192x192.png
       descr: 肯了个德的个人博客
-      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.59/img/1700910930604.png
+      siteshot: https://cdn.cbd.int/ahua666-panimg@1.0.62/img/1700910930604.png
 
 - class_name: 小伙伴
   class_desc: 那些人，那些事
@@ -51,7 +51,7 @@
     - name: 安知鱼
       hundredSuffix: ""
       link: https://anzhiy.cn/
-      avatar: https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20230729221422.png
+      avatar: https://cdn.cbd.int/ahua666-panimg@1.0.62/img/20230729221422.png
       descr: 生活明朗，万物可爱
     - name: 图鸟UI文档
       hundredSuffix: ""

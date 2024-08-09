@@ -4,8 +4,8 @@ date: 2023-10-08 16:23:14
 tags:
   - flutter
   - android
-top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20230731171324.png'
-cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.59/img/20230731171324.png'
+top_img: 'https://cdn.cbd.int/ahua666-panimg@1.0.62/img/20230731171324.png'
+cover: 'https://cdn.cbd.int/ahua666-panimg@1.0.62/img/20230731171324.png'
 categories:
   - flutter
 main_color: "#4f6977"
