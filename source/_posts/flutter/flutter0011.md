@@ -1,5 +1,5 @@
 ---
-title: flutter0011
+title: flutter开启高帧率
 date: 2024-08-16 10:56:40
 tags:
   - flutter
