@@ -13,18 +13,26 @@ main_color: "#4f6977"
 
 ## flutter 开启高帧率
 
-将 MainActivity.kt 中的
-
-```kotlin
-import io.flutter.embedding.android.FlutterActivity
-class MainActivity: FlutterActivity ()
+yaml文件中添加依赖
+```shell
+flutter_displaymode: ^0.6.0
 ```
 
-改为
+main.dart中添加
 
-```kotlin
-import io.flutter.embedding.android.FlutterFragmentActivity
-class MainActivity: FlutterFragmentActivity ()
+WidgetsFlutterBinding.ensureInitialized();
+
+如下示例
+```dart
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  runApp(const MyApp());
+}
 ```
 
-即可开启高帧率
+使用示例
+```dart
+final DisplayMode m = await FlutterDisplayMode.active;
+print(m);
+await FlutterDisplayMode.setHighRefreshRate();
+```
